@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * @author Aleksey Bykov
+ * @since 20.04.2020
+ */
 public class SinglyLinkedList {
 
 	private Node head;

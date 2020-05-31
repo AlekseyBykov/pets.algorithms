@@ -5,6 +5,10 @@ import org.junit.Test;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
+/**
+ * @author Aleksey Bykov
+ * @since 20.04.2020
+ */
 public class SinglyLinkedListTest {
 
 	@Test

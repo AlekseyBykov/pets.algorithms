@@ -1,5 +1,9 @@
 package alekseybykov.portfolio.algorithms.analysis.bigo;
 
+/**
+ * @author Aleksey Bykov
+ * @since 17.04.2020
+ */
 class AsymptoticFunctions {
 
 	// f(n) = x1 + x2*n = O(n), fast growing term.
