@@ -18,10 +18,6 @@
         <commons-lang3.version>3.8.1</commons-lang3.version>
     </properties>
 
-    <name>guava</name>
-    <description>Test suite for various examples of using Guava.</description>
-    <url>https://alekseybykov.github.io</url>
-
     <developers>
         <developer>
             <name>Aleksey Bykov</name>
